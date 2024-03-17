@@ -1,1 +1,1 @@
-# gda_course_modules
+Modules from Google Advanced Data Analytics Course
